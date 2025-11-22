@@ -1,4 +1,4 @@
-# patterns
+# Testing and dubugging
 
 A new Flutter project.
 
